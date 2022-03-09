@@ -17,6 +17,7 @@ body {
   font-family: var(--font1);
   min-height: 100vh;
   background: rgb(190, 187, 187);
+  padding: 0 100px;
 }
 
 header {
